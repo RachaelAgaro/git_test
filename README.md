@@ -1,2 +1,3 @@
 # git_test
-Odin Project
+My First Odin Project #1
+Hello Future Me
